@@ -2,5 +2,5 @@ name: Torque Aerospace
 markdown: redcarpet
 pygments: true
 description: "Electric Supersonic Aircraft Manufacturer"
-url: "jekyll-new.joelglovier.com"
+url: "torqueaerospace.github.io"
 permalink: /posts/:title
